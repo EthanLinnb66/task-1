@@ -1,0 +1,13 @@
+.box {
+  /* CSS properties are written as property: value; */
+  width: 59%;
+  height: 100px;
+}
+
+/* 4. ID SELECTOR (#) - Must be unique! 
+   This style will only apply to the element with id="box-yellow" */
+#box-yellow {
+  /* Colors can also be written as color names */
+  color: purple;
+  background-color: yellow;
+}
